@@ -4,8 +4,8 @@
 
 
 - 🔭 Current project:**Customer churn analysis**(MySql)
-- 🌱 I write tests with pytest and use GitHub Actions
-- 👯 Learning: AWS
+-    I write tests with pytest and use GitHub Actions
+-    Learning: AWS
 
   
 ## Tech
