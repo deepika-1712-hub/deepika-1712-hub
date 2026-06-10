@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi I'm Deepika Chelluboyina
+**Data Analyst**-Sql,Python,Power Bi
 
-<!--
-**deepika-1712-hub/deepika-1712-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Current project:**Customer churn analysis**(MySql)
+- 🌱 I write tests with pytest and use GitHub Actions
+- 👯 Learning: AWS
+
+  
+## Tech
+Python, Sql, Power Bi,GitHub Actions
+
+## Projects(Pinned below)
+1. Customer Churn Analytics- Sql,Python,Power bi
+2. Retail Sales& Revenue Dashboard - Sql,Power bi
+3.E-commerce Customer Analytics -Python,Sql,Power bi
+4.AI-Powered Customer Feedback Analysis-OpenAI API
+5.Cloud-Based Data Warehouse Analytics-AWS S3 and Redshift or BigQuery
+
+
+  
